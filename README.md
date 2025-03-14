@@ -32,7 +32,7 @@ Aprender boas práticas ao criar códigos com o  JUnit.
 
 <img src="img/testClassImg.png" width="800" />
 
-* Clique sobre a função desejada com o botão direito e clique em `Test/Tested Class` *
+* Clique sobre a função desejada com o botão direito e clique em `Test/Tested Class`
 
 
 ## Esquema de cores
