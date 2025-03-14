@@ -1,4 +1,4 @@
-### ** Verificação de Palíndromo**
+### ** Verificação de Palíndromo **
 
 #### **Definição:**
 Um palíndromo é uma palavra ou frase que, ao ser lida da esquerda para a direita, apresenta o mesmo resultado quando lida da direita para a esquerda, desconsiderando espaços e acentuação.
