@@ -27,10 +27,10 @@ Nesta atividade, vocês trabalharão em duplas para desenvolver uma aplicação 
 
 ## ** Critérios de Avaliação:**  
 
-✔️ Qualidade e clareza do plano de testes  
-✔️ Implementação correta da aplicação escolhida  
-✔️ Cobertura e eficiência dos testes unitários  
-✔️ Apresentação  
+Qualidade e clareza do plano de testes  
+Implementação correta da aplicação escolhida  
+Cobertura e eficiência dos testes unitários  
+Apresentação  
 
 ## ** Prazo:**  
 
