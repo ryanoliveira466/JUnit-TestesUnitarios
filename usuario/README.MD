@@ -25,14 +25,14 @@ Nesta atividade, vocês trabalharão em duplas para desenvolver uma aplicação 
 
 **Executar os testes e validar os resultados**, garantindo que os requisitos definidos no plano de testes sejam atendidos.  
 
-## ** Critérios de Avaliação:**  
+## Critérios de Avaliação:
 
 Qualidade e clareza do plano de testes  
 Implementação correta da aplicação escolhida  
 Cobertura e eficiência dos testes unitários  
 Apresentação  
 
-## ** Prazo:**  
+## Prazo:
 
 - Desenvolvimento e testes devem ser concluídos até o final da **próxima aula**.  
 - No final da aula, cada dupla deverá apresentar brevemente os resultados obtidos.   
