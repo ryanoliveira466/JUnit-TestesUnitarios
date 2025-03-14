@@ -1,4 +1,4 @@
-# Java desktop introdução
+# JUnit
 
 Este repositório contém atividades de prática sobre testes unitários com JUnit
 
