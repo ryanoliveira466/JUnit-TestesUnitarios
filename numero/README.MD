@@ -1,7 +1,3 @@
-## **Exercícios para serem realizados na aula do dia 11/02/2024**
-
----
-
 ### **Operações Matemáticas com Número Informado pelo Usuário**
 
 #### **Requisitos:**
