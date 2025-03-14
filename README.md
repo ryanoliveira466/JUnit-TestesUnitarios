@@ -28,7 +28,7 @@ Aprender boas práticas ao criar códigos com o  JUnit.
 
 * Após todos os processos, simplesmente abra o NetBeans e pronto, você poderá criar os seus projetos em Java com toda a estrutura do NetBeans.
 
-<img src="img/mavenProject.png" width="800" />
+<img src="img/mavenProject1.png" width="800" />
  
 * Faça um projeto Maven 
 
