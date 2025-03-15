@@ -1,6 +1,6 @@
 # JUnit
 
-Este repositório contém atividades de prática sobre testes unitários com JUnit
+Este repositório contém atividades de prática sobre testes unitários com JUnit.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="200" />
 
@@ -30,11 +30,11 @@ Aprender boas práticas ao criar códigos com o  JUnit.
 
 <img src="img/mavenProject1.png" width="800" />
  
-* Faça um projeto Maven 
+* Faça um projeto Mave.
 
 <img src="img/testClassImg.png" width="800" />
 
-* Clique sobre a função desejada com o botão direito e clique em `Test/Tested Class`
+* Clique sobre a função desejada com o botão direito e clique em `Test/Tested Class`.
 
 
 ## Esquema de cores
